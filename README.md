@@ -41,8 +41,8 @@ This project demonstrates the potential of using MobileNet for classifying lumba
 To set up this project, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/lumbar-classification.git
-   cd lumbar-classification
+   git clone https://github.com/Genius-360/Classifying-Lumbar-Conditions-with-MobileNet.git
+   cd Classifying-Lumbar-Conditions-with-MobileNet
    ```
 2. Install the required libraries:
    ```bash
