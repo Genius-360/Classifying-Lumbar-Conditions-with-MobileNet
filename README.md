@@ -1,7 +1,3 @@
-Here’s a README template for your project:
-
----
-
 # Classifying Lumbar Conditions with MobileNet
 
 ## Overview
